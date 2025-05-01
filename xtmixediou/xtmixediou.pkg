@@ -1,4 +1,14 @@
-D 'DEA': Data envelopment analysis
+D 'xtmixediou': Linear mixed-effects integrated Ornstein-Uhlenbeck model Use xtmixediou With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F interfacepd.mata
+F ispositivedefinite.mata
+F lxtmixediou.mlib
+F makepositivedefinite.mata
+F xtmixediou.ado
+F xtmixediou.sthlp
+F xtmixediou_display.ado
+F xtmixediou_estimation.mata
+F xtmixediou_postestimation.sthlp
+F xtmixediou_predict.mata
+F xtmixediou_sv.ado
+F xtmixedioupredict.ado
